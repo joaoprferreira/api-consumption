@@ -1,8 +1,5 @@
 <html>
   <heade>
-    <style>
-      backround-color: white;
-    </style>
   </heade>
   <body>
     <h1> Uma Demostração simple de consumo de uma api interna ou Externa </h1>
